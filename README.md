@@ -1,6 +1,6 @@
 # MFogHub
 
-The MFogHub dataset and benchmarks for "MFogHub: Bridging Multi-Regional and Multi-Satellite Data for Global Marine Fog Detection and Forecasting".
+The MFogHub dataset and benchmarks for "MFogHub: Bridging Multi-Regional and Multi-Satellite Data for Global Marine Fog Detection and Forecasting". (CVPR 2025)
 
 ![Fig1](https://github.com/BUPT-PRIS-727/MFogHub/blob/main/Figs/teaser.png)
 
